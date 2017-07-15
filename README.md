@@ -1,4 +1,4 @@
-# Juanchos
+# Juanchos Burger Shop
 Burger Website - College Project (Front-End Developer)
 
 ## Screenshots
